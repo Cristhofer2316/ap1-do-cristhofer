@@ -1,0 +1,14 @@
+C:\Users\crist\OneDrive\Área de Trabalho\trablho do cris\trabalho\bin\Debug\net8.0\trabalho.exe
+C:\Users\crist\OneDrive\Área de Trabalho\trablho do cris\trabalho\bin\Debug\net8.0\trabalho.deps.json
+C:\Users\crist\OneDrive\Área de Trabalho\trablho do cris\trabalho\bin\Debug\net8.0\trabalho.runtimeconfig.json
+C:\Users\crist\OneDrive\Área de Trabalho\trablho do cris\trabalho\bin\Debug\net8.0\trabalho.dll
+C:\Users\crist\OneDrive\Área de Trabalho\trablho do cris\trabalho\bin\Debug\net8.0\trabalho.pdb
+C:\Users\crist\OneDrive\Área de Trabalho\trablho do cris\trabalho\obj\Debug\net8.0\trabalho.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\OneDrive\Área de Trabalho\trablho do cris\trabalho\obj\Debug\net8.0\trabalho.AssemblyInfoInputs.cache
+C:\Users\crist\OneDrive\Área de Trabalho\trablho do cris\trabalho\obj\Debug\net8.0\trabalho.AssemblyInfo.cs
+C:\Users\crist\OneDrive\Área de Trabalho\trablho do cris\trabalho\obj\Debug\net8.0\trabalho.csproj.CoreCompileInputs.cache
+C:\Users\crist\OneDrive\Área de Trabalho\trablho do cris\trabalho\obj\Debug\net8.0\trabalho.dll
+C:\Users\crist\OneDrive\Área de Trabalho\trablho do cris\trabalho\obj\Debug\net8.0\refint\trabalho.dll
+C:\Users\crist\OneDrive\Área de Trabalho\trablho do cris\trabalho\obj\Debug\net8.0\trabalho.pdb
+C:\Users\crist\OneDrive\Área de Trabalho\trablho do cris\trabalho\obj\Debug\net8.0\trabalho.genruntimeconfig.cache
+C:\Users\crist\OneDrive\Área de Trabalho\trablho do cris\trabalho\obj\Debug\net8.0\ref\trabalho.dll
